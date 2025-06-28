@@ -31,12 +31,3 @@ This project focuses on designing and implementing a scalable, secure, and effic
   Verified portions of the simulated network on real Cisco and Fortinet devices:
   - Cisco 2960 Series SI - L2 Managed Switch
   - Fortinet FortiGate 100D - Router (Firewall)
-
-## Tools & Networking Devices Used
-
-- **Cisco Packet Tracer** (Simulation)
-- **Cisco 2960 Series SI** – Layer 2 Managed Switch
-- **Fortinet FortiGate 100D** – Firewall/Router
-- **Console Cable & Cat 6 RJ45 Ethernet Cables**
-
-
