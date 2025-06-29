@@ -1,7 +1,8 @@
 # Inter-VLAN Routing and Network Segmentation for Small and Medium Enterprises (SMEs)
 
 > **Duration:** June 2025  
-> **Company:** Symbiotic Infotech Pvt. Ltd.   
+> **Company:** Symbiotic Infotech Pvt. Ltd.
+   
 ### Project Summary
 
 • Designed and implemented a SME level multi-VLAN network and Inter-VLAN Routing via Router-on-a-Stick and separate DHCP configuration, IP Address Pools for Each VLAN and Trunk port setup, Integration of Access Points for wireless clients using Cisco Packet Tracer.  
