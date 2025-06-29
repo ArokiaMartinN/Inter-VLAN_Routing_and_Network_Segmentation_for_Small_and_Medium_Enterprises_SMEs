@@ -20,14 +20,17 @@
 ### Core Components
 - **Router:** 
   - Handles inter-VLAN routing
-  - Configured with subinterfaces:
+  - Configured with **Subinterfaces**:
     - `G0/0.10` → `192.168.1.0/24` (VLAN 10) [Dept 1]
     - `G0/0.20` → `192.168.2.0/24` (VLAN 20) [Dept 2]
+   - **Reserved IPs** (For Future need of Static IPs)
+     - VLAN10_POOL: `192.168.1.2` – `192.168.1.10`
+     - VLAN20_POOL: `192.168.2.2` – `192.168.2.10`
   - Acts as centralized **DHCP Server**
     - VLAN10_POOL: `192.168.1.11` – `192.168.1.254`
     - VLAN20_POOL: `192.168.2.11` – `192.168.2.254`
 
-- **Main Switch (Core Layer):** Cisco 2960-24TT
+- **Main Switch (Core Layer):** 
   - Ports Fa0/1–12 → VLAN 10 [Dept 1]
   - Ports Fa0/13–23 → VLAN 20 [Dept 2]
   - Port Fa0/24 → **Trunk** to Router
@@ -36,6 +39,7 @@
 ## Department-Level Structure
 
 ### Department 1 – VLAN 10 [Dept 1] (`192.168.1.0/24`)
+- Default Gateway - `192.168.1.1`
 - **Sub 1 [Switch 1]**
   - Devices:
     - PC 1.1 (DG 1.1)
@@ -49,6 +53,7 @@
     - Server 1.1
 
 ### Department 2 – VLAN 20 [dept 2] (`192.168.2.0/24`)
+- Default Gateway - `192.168.2.1`
 - **Sub 2 [Switch 1]**
   - Devices:
     - PC 2.1, PC 2.2, PC 2.3
