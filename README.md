@@ -15,7 +15,7 @@
 • Fortinet Fortigate 100D - Router (Firewall)  
 • Console Cable & Cat 6 RJ45 Ethernet Cables
 
-### Network Architecture
+## Network Architecture
 
 ### Core Components
 - **Router:** 
