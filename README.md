@@ -13,7 +13,6 @@
 • Cisco Packet Tracer  
 • Cisco Catalyst 2960 Series SI - Switch (L2 Managed)  
 • Fortinet Fortigate 100D - Router (Firewall)  
-• Console Cable & Cat 6 RJ45 Ethernet Cables
 
 ## Network Architecture
 
