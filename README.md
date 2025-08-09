@@ -90,8 +90,8 @@
 
 ### Link to PDF's:
 
-- Work Flow & Configurations: https://drive.google.com/file/d/1Vw2Z-J7r5m56evy8fAHVm25tvjFx5MLq/view?usp=sharing
 - Architecture: https://drive.google.com/file/d/1knz3IvWZoPkurynUbIdCpFY5-i_DfDbE/view?usp=sharing
+- Work Flow & Configurations: https://drive.google.com/file/d/1Vw2Z-J7r5m56evy8fAHVm25tvjFx5MLq/view?usp=sharing
 - Cisco Catalyst 2960 Series SI - Switch (L2 Managed): https://drive.google.com/file/d/1vuUCJHra8wFMYcariaOvA-QW2s320KEO/view?usp=sharing
 - Fortinet Fortigate 100D - Router (Firewall): https://drive.google.com/file/d/1p7zERMck87_13CVjN5pojZ02Pe5mpdWN/view?usp=sharing
   
