@@ -3,6 +3,16 @@
 > **Duration:** June 2025  
 > **Company:** Symbiotic Infotech Pvt. Ltd.
    
+### Architecture Images:
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/888d8ad1-01c5-4594-b647-24d15eb9a995" width="49%" height="auto" />
+  <img src="https://github.com/user-attachments/assets/e16a1a61-8fb0-4524-a078-4046e403acb9" width="49%" height="auto" />
+</p>
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/74a994db-c438-4abb-8c94-c1e294398c44" width="800" height="621" alt="image" />
+</p>
+   
 ### Project Summary
 
 • Designed and implemented a SME level multi-VLAN network and Inter-VLAN Routing via Router-on-a-Stick and separate DHCP configuration, IP Address Pools for Each VLAN and Trunk port setup, Integration of Access Points for wireless clients using Cisco Packet Tracer.  
