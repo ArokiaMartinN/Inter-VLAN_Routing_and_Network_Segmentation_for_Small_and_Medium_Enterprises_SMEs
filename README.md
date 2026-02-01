@@ -3,7 +3,7 @@
 > **Duration:** June 2025  
 > **Company:** Symbiotic Infotech Pvt. Ltd.
    
-### Architecture Images:
+### Architecture Images (On-Premise Devices):
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/888d8ad1-01c5-4594-b647-24d15eb9a995" width="49%" height="auto" />
